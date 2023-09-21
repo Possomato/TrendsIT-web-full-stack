@@ -1,0 +1,1 @@
+# escreva um programa que leia duas notas de um aluno de programação. Em seguida, a média ponderada, com pesos 2 e 3, respectivamente, deve ser calculada. Por fim, O programa deve imprimir a média obtida
